@@ -1,5 +1,6 @@
 # Plot.ly-Homework-Belly-Button-Biodiversity
 Hurdles and victories working with Javascript and Plotly
+
 ![Alt text](images/bacteria.jpg?raw=true "Title")
 
 
@@ -26,3 +27,23 @@ The dataset reveals that a small handful of microbial species (also called opera
   - Use otu_labels as the hovertext for the chart.
 
 ![Alt text](images/hw01.png?raw=true "Title")
+
+3) Create a bubble chart that displays each sample.
+
+
+
+  - Use otu_ids for the x values.
+
+
+  - Use sample_values for the y values.
+
+
+  - Use sample_values for the marker size.
+
+
+  - Use otu_ids for the marker colors.
+
+
+  - Use otu_labels for the text values.
+
+![Alt text](images/bubble_chart.png?raw=true "Title")
