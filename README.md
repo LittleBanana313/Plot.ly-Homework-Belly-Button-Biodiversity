@@ -32,13 +32,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 
-    - Use otu_ids for the x values.
+  - Use otu_ids for the x values.
 
 
-    - Use sample_values for the y values.
+  - Use sample_values for the y values.
 
 
-    - Use sample_values for the marker size.
+  - Use sample_values for the marker size.
 
 
     - Use otu_ids for the marker colors.
@@ -61,3 +61,36 @@ The dataset reveals that a small handful of microbial species (also called opera
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 ![Alt text](images/hw02.png?raw=true "Title")
+
+## Advanced Challenge Assignment (Optional)
+The following task is advanced and therefore optional:
+
+
+- Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+
+
+- You will need to modify the example gauge code to account for values ranging from 0 through 9.
+
+
+- Update the chart whenever a new sample is selected.
+
+
+![Alt text](images/gauge.png?raw=true "Title")
+
+## Deployment
+
+
+- Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+
+
+- Ensure your repository has regular commits and a thorough README.md file
+
+
+
+## Hints
+
+
+- Use console.log inside of your JavaScript code to see what your data looks like at each step.
+
+
+- Refer to the Plotly.js documentation when building the plots.
