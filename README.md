@@ -1,5 +1,6 @@
 # Plot.ly-Homework-Belly-Button-Biodiversity
 Hurdles and victories working with Javascript and Plotly
+
 ![Alt text](images/bacteria.png?raw=true "Title")
 
 
@@ -25,3 +26,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
   - Use otu_labels as the hovertext for the chart.
 
+![Alt text](images/hw01.png?raw=true "Title")
