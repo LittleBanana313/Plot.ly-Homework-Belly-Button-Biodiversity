@@ -2,7 +2,9 @@
 Hurdles and victories working with Javascript and Plotly
 ### Hurdle notes (key lessons learned):
     - 'python -m http.server' in bash window to activate server
+    
     - 'localhost:8000' in broser and navigate to projct directory to display visualizations
+    
     - console.log() is your friend
 
 ![Alt text](images/bacteria.jpg?raw=true "Title")
