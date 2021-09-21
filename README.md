@@ -1,5 +1,11 @@
 # Plot.ly-Homework-Belly-Button-Biodiversity
 Hurdles and victories working with Javascript and Plotly
+### Hurdle notes (key lessons learned):
+- 'python -m http.server' in bash window to activate server
+    
+- 'localhost:8000' in browser and navigate to projct directory to display visualizations
+    
+- console.log() is your friend
 
 ![Alt text](images/bacteria.jpg?raw=true "Title")
 
@@ -41,10 +47,10 @@ The dataset reveals that a small handful of microbial species (also called opera
   - Use sample_values for the marker size.
 
 
-    - Use otu_ids for the marker colors.
+  - Use otu_ids for the marker colors.
 
 
-    - Use otu_labels for the text values.
+  - Use otu_labels for the text values.
 
 ![Alt text](images/bubble_chart.png?raw=true "Title")
 
